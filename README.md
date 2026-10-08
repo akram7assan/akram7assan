@@ -1,58 +1,58 @@
 <div align="center">
 
 # ⚡ AKRAM HASSAN ⚡
-### **Full-Stack Developer & Software Engineering Student**
+### **Full-Stack Software Engineer & Systems Architect**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;C%2B%2B+%26+Systems+Engineering;Medical+Platforms+%26+Cloud+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Architect;High-Concurrency+Medical+Systems;C%2B%2B+%26+Advanced+Data+Structures;Cloudflare+%26+Edge+Deployments)](https://git.io/typing-svg)
 
 ---
 
-![](https://komarev.com/ghpvc/?username=akram7assan&color=007acc&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=akram7assan&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-### 🧬 About Me
-* 🎓 First-Year Computer Science student focused on **Software Architecture & Data Structures**.
-* 🛠️ Specialized in building high-concurrency medical booking platforms, real-time dashboards, and secure cloud deployments.
-* ⚡ Deep interest in **C++ systems development**, Python web scraping automation (**Playwright / Pandas**), and modern web platforms.
+### 🧬 Professional Summary
+* 🎓 **Computer Science Scholar** specializing in high-performance web architecture, database design, and algorithm optimization.
+* 🏥 **Medical Tech Specialist:** Built and deployed full-scale clinical booking eco-systems, multi-branch scheduling portals, and patient management platforms.
+* ⚙️ **Core Engineering:** Advanced C++ developer, proficient in memory management, OOP, and automated data processing using Python (**Playwright / Pandas**).
 
 ---
 
-### 💻 Tech Stack & Tooling
+### 🛠️ Tech Stack & Engineering Core
 
-| Domain | Technologies & Frameworks |
+| Domain | Technologies & Skills |
 | :--- | :--- |
-| **Frontend Engineering** | `JavaScript (ES6+)` `React` `Tailwind CSS` `HTML5/CSS3` |
-| **Backend & Databases** | `Node.js` `Supabase` `Firebase` `PostgreSQL` |
-| **Systems & Automation** | `C++` `Python (Playwright, Pandas)` `Data Structures & OOP` |
-| **Cloud & DevOps** | `Cloudflare Workers` `Vercel` `Netlify` `Hostinger DNS` `Git / GitHub` |
+| **Frontend Architecture** | `JavaScript (ES6+)` `React` `Tailwind CSS` `HTML5/CSS3` `REST APIs` |
+| **Backend & Cloud Infrastructure** | `Node.js` `Supabase (PostgreSQL)` `Firebase` `Cloudflare Workers & Pages` `Vercel` `Netlify` |
+| **Software Engineering & Data** | `C++` `Python (Playwright, Pandas)` `Object-Oriented Programming` `Data Structures` |
+| **DevOps & Domain Management** | `Hostinger DNS` `Cloudflare Edge` `Git / GitHub CI/CD` `Environment Security` |
 
 ---
 
-### 🚀 Production Systems & Live Deployments
+### 🚀 Featured Production Systems
 
-| System / Project | Live Platform | Infrastructure & Tech | Highlights & Architecture |
+| System / Platform | Live URL | Tech Stack | Architecture & Capabilities |
 | :--- | :--- | :--- | :--- |
-| 🏥 **Dr. Asmaa Mahmoud Clinic** | [🌐 dr-asmaa.site](https://dr-asmaa.site) | `React` · `Firebase` · `Cloudflare` | Production pediatric booking system across Rehab, CMC & Heliopolis branches. |
-| 🩺 **Dr. Moustafa Wahman Platform** | [🌐 Live Link](https://dr-moustafa-wahman.vercel.app) | `Node.js` · `Supabase` · `Vercel` | Full clinical portal with real-time schedule management & automated patient queues. |
-| 📅 **Medical Center Schedule System** | [🌐 Live Link](https://medical-center-schedule.vercel.app) | `React` · `Tailwind` · `Cloudflare` | Multi-doctor appointment coordination engine & interactive calendar dashboard. |
+| 👶 **Dr. Asmaa Mahmoud Platform** | [🌐 dr-asmaa.site](https://dr-asmaa.site) | `React` · `Firebase` · `Cloudflare` | Production pediatric booking portal operating across Rehab, CMC (New Cairo), and Heliopolis branches. |
+| 🩺 **Dr. Moustafa Wahman Medical Hub** | [🌐 Live Platform](https://dr-moustafa.medical-app.workers.dev) | `Node.js` · `Cloudflare Workers` · `Supabase` | Comprehensive informational & diagnostic portal for senior pediatric consultants with real-time patient queueing. |
+| 📅 **Multi-Branch Booking & Schedules** | [🌐 Live Engine](https://dr-mostafa-akram.pages.dev/#booking) | `React` · `Tailwind` · `Cloudflare Pages` | Multi-clinic reservation engine managing 7 full-scale branches, automated time-slot locking, and schedule sync. |
 
 ---
 
-### ⚡ GitHub Stats & Activity
+### 📈 GitHub Stats & Contribution Dynamics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akram7assan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akram7assan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=akram7assan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akram7assan&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 ---
 
-### 📬 Connect & Contact
+### 📬 Connect & Professional Links
 
 <div align="center">
 
